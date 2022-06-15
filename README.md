@@ -1,0 +1,1 @@
+# rid-react-template
